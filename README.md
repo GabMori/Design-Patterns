@@ -13,7 +13,7 @@ Instruções para Uso
 Clone o repositório com o comando:
 bash
 Copiar código
-git clone https://github.com/andrielystarosky/ProjetoRegistro.git
+https://github.com/GabMori/Design-Patterns.git
 Acesse a pasta do projeto:
 bash
 Copiar código
